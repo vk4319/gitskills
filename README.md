@@ -1,4 +1,4 @@
 # gitskills
-add the first line
-add the second line
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
 This is an hero absolutelly right readme file
